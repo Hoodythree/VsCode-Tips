@@ -4,6 +4,7 @@ Tips:
 1. Features:
   - Toggle Zen mode
   - Git
+  - Code Snippts
 2. Tips
   - 隐藏侧边栏 `ctrl + B`
   - 打开多个窗口 
@@ -13,3 +14,4 @@ Tips:
   - 移动单词 'ctrl -><-'
 3. Plugins
   - Code Formatter
+  - Advance-New-File
